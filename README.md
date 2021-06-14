@@ -60,7 +60,7 @@
             </tr>
             <tr style="height: 18px;">
                 <td style="text-align: center; height: 18px; width: 59px;">4</td>
-                <td style="height: 18px; width: 198px;"><a href="https://github.com/LuizCorrea-Dev/everisKotlinDeveloper-bootcamp/tree/master/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas" target="_blank" rel="noopener"></a>A Corrida de Tartarugas</td>
+                <td style="height: 18px; width: 198px;"><a href="https://github.com/LuizCorrea-Dev/everisKotlinDeveloper-bootcamp/tree/master/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas" target="_blank" rel="noopener">A Corrida de Tartarugas</a></td>
                 <td style="height: 18px; width: 62px;"><a href="https://github.com/LuizCorrea-Dev/everisKotlinDeveloper-bootcamp/blob/master/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas/solucao.kt" target="_blank" rel="noopener">C&oacute;digo</a></td>
             </tr>
             <tr style="height: 18px;">
