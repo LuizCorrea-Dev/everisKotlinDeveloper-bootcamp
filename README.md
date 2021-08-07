@@ -5,8 +5,10 @@
 
 ------
 
-<img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" alt="gfdg" style="zoom:15%;" />![](https://www.everis.com/sites/all/themes/everis/logo.png)
 
+<p align="center">
+  <img src="https://luizcorrea-dev.github.io/static/media/everisKDesafio.db2cc59d.png" />
+</p>
 
 
 
